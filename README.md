@@ -1,4 +1,4 @@
-# hello-vue
+# vue-movie
 
 > A Vue.js project
 
